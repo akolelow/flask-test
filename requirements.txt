@@ -1,1 +1,6 @@
 flask
+flask-login
+sqlalchemy
+flask_restful
+wtforms
+flask_wtf
